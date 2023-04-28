@@ -4,9 +4,9 @@
 
 ![viciadoemcodar](https://user-images.githubusercontent.com/93918710/235169877-1bce8ce1-777b-4d73-98a9-49c440010a61.gif)  ![giphy](https://user-images.githubusercontent.com/93918710/235171118-96fa39f6-591c-40c7-9b7d-13dc75f841ea.gif)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGomesSoares&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGomesSoares&show_icons=true&theme=github_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGomesSoares&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGomesSoares&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
@@ -22,7 +22,7 @@
   <img align="center" alt="Gabriel-MONGODB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img align="center" alt="Gabriel-SPRING" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
  
-  ![jill-valentine-resident-evil (1)](https://user-images.githubusercontent.com/93918710/235169442-8d7b88b1-d20f-48b5-a542-9fb5ca15df59.gif)  
+ ![jill-valentine-resident-evil (1)](https://user-images.githubusercontent.com/93918710/235169442-8d7b88b1-d20f-48b5-a542-9fb5ca15df59.gif)  
  
 
   
