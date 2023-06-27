@@ -4,6 +4,13 @@
 
 ![viciadoemcodar](https://user-images.githubusercontent.com/93918710/235169877-1bce8ce1-777b-4d73-98a9-49c440010a61.gif)  ![giphy](https://user-images.githubusercontent.com/93918710/235171118-96fa39f6-591c-40c7-9b7d-13dc75f841ea.gif)
 
+- 📌 Information Systems Graduate.
+- 💻 Technology enthusiast. 
+- 👩🏻‍💻 Backend Developer.
+- 📖 Studying HTML And CSS.
+- 🔓 Studying Computer Networks.
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGomesSoares&show_icons=true&theme=github_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGomesSoares&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -33,4 +40,4 @@
   <a href="https://www.linkedin.com/in/gabriel-gomes-soares-a2b89815a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>  
   
- ![jill-valentine-resident-evil (1)](https://user-images.githubusercontent.com/93918710/235169442-8d7b88b1-d20f-48b5-a542-9fb5ca15df59.gif)  
+ ![jill-valentine-resident-evil (1)](https://user-images.githubusercontent.com/93918710/235169442-8d7b88b1-d20f-48b5-a542-9fb5ca15df59.gif)  ![](https://komarev.com/ghpvc/?username=byalycky&color=006bed)
