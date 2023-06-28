@@ -41,4 +41,4 @@
   <a href="https://www.linkedin.com/in/gabriel-gomes-soares-a2b89815a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>  
   
- ![jill-valentine-resident-evil (1)](https://user-images.githubusercontent.com/93918710/235169442-8d7b88b1-d20f-48b5-a542-9fb5ca15df59.gif)  ![](https://komarev.com/ghpvc/?username=byalycky&color=006bed)
+ ![jill-valentine-resident-evil (1)](https://user-images.githubusercontent.com/93918710/235169442-8d7b88b1-d20f-48b5-a542-9fb5ca15df59.gif)  ![](https://komarev.com/ghpvc/?username=GGomesSoaresy&color=006bed)
