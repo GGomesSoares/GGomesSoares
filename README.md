@@ -1,4 +1,4 @@
-## Hello Stranger, bem vindo ao meu GitHub!   
+## Hello Stranger, Welcome To My GitHub!   
  
 
 
