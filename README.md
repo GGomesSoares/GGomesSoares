@@ -5,10 +5,11 @@
 ![viciadoemcodar](https://user-images.githubusercontent.com/93918710/235169877-1bce8ce1-777b-4d73-98a9-49c440010a61.gif)  ![giphy](https://user-images.githubusercontent.com/93918710/235171118-96fa39f6-591c-40c7-9b7d-13dc75f841ea.gif)
 
 - 📌 Information Systems Graduate.
+- 🎧 Music Lover
 - 💻 Technology enthusiast. 
 - 👩🏻‍💻 Backend Developer.
 - 📖 Studying HTML And CSS.
-- 🔓 Studying Computer Networks.
+- 📩 Studying Computer Networks.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGomesSoares&show_icons=true&theme=github_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGomesSoares&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
